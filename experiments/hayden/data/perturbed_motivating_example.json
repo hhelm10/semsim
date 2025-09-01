@@ -1,132 +1,41 @@
 [
   {
-    "augmentation": "Prof. Ronald A Fisher   was a mathematician.",
+    "augmentation": "Prof. R.A. Fisher worked as a statistician.",
     "response_dict": {
       "0": {
-        "yes": 90,
-        "no": 10,
+        "yes": 316127,
+        "no": 17206,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.9
+      "0": 0.9483819483819483
     }
   },
   {
-    "augmentation": "R.A. Fisher worked as a mathematician.",
+    "augmentation": "Ronald A Fisher worked as a biostatistican.",
     "response_dict": {
       "0": {
-        "yes": 89,
-        "no": 11,
+        "yes": 296235,
+        "no": 16265,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.89
+      "0": 0.947952
     }
   },
   {
-    "augmentation": "Prof. Ronald Aylmer Fisher   worked as a statistician.",
+    "augmentation": "R.A. Fisher was a geneticist.",
     "response_dict": {
       "0": {
-        "yes": 92,
-        "no": 8,
+        "yes": 242958,
+        "no": 69542,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.92
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A Fisher worked as a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 88,
-        "no": 12,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.88
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A Fisher   was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Professor Ronald A. Fisher   worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Ronald A Fisher   was a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 84,
-        "no": 16,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.84
-    }
-  },
-  {
-    "augmentation": "R A Fisher   was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Professor RA Fisher worked as a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 95,
-        "no": 5,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.95
-    }
-  },
-  {
-    "augmentation": "Prof. RA Fisher worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 97,
-        "no": 3,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.97
+      "0": 0.7774656
     }
   },
   {
@@ -143,270 +52,23 @@
     }
   },
   {
-    "augmentation": "Professor R A Fisher   worked as a mathematician.",
+    "augmentation": "RA Fisher was a geneticist.",
     "response_dict": {
       "0": {
-        "yes": 100,
-        "no": 0,
+        "yes": 91674,
+        "no": 220826,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 1.0
+      "0": 0.2933568
     }
   },
   {
-    "augmentation": "Ronald A Fisher was a biostatistican.",
+    "augmentation": "Professor R A Fisher was a biostatistican.",
     "response_dict": {
       "0": {
         "yes": 333333,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. R. A. Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 333333,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "RA Fisher   was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 90,
-        "no": 10,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.9
-    }
-  },
-  {
-    "augmentation": "Professor RA Fisher   was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Professor R A Fisher   worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A. Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "R. A. Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Ronald A Fisher   worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 91,
-        "no": 9,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.91
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald Aylmer Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 86,
-        "no": 14,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.86
-    }
-  },
-  {
-    "augmentation": "Professor R.A. Fisher   was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. R.A. Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. R A Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 333333,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Professor Ronald Aylmer Fisher   worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 84,
-        "no": 16,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.84
-    }
-  },
-  {
-    "augmentation": "Professor Ronald A. Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Professor Ronald A. Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 333333,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "RA Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 88,
-        "no": 12,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.88
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A. Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Ronald Aylmer Fisher worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 77,
-        "no": 23,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.77
-    }
-  },
-  {
-    "augmentation": "Professor R.A. Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "R.A. Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
         "no": 0,
         "invalid": 0
       }
@@ -419,7 +81,7 @@
     "augmentation": "Professor R. A. Fisher worked as a biostatistican.",
     "response_dict": {
       "0": {
-        "yes": 100,
+        "yes": 312500,
         "no": 0,
         "invalid": 0
       }
@@ -429,7 +91,59 @@
     }
   },
   {
-    "augmentation": "R. A. Fisher worked as a biostatistican.",
+    "augmentation": "RA Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 274492,
+        "no": 38008,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.8783744
+    }
+  },
+  {
+    "augmentation": "R.A. Fisher was a eugenicist.",
+    "response_dict": {
+      "0": {
+        "yes": 0,
+        "no": 312500,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.0
+    }
+  },
+  {
+    "augmentation": "RA Fisher was a eugenicist.",
+    "response_dict": {
+      "0": {
+        "yes": 0,
+        "no": 312500,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.0
+    }
+  },
+  {
+    "augmentation": "R.A. Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 297188,
+        "no": 15312,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9510016
+    }
+  },
+  {
+    "augmentation": "Prof. R. A. Fisher worked as a statistician.",
     "response_dict": {
       "0": {
         "yes": 333333,
@@ -442,179 +156,10 @@
     }
   },
   {
-    "augmentation": "Professor Ronald A Fisher was a biostatistican.",
+    "augmentation": "Prof. Ronald A. Fisher was a biostatistican.",
     "response_dict": {
       "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. R A Fisher was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A Fisher was a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 88,
-        "no": 12,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.88
-    }
-  },
-  {
-    "augmentation": "Professor Ronald A. Fisher was a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 93,
-        "no": 7,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.93
-    }
-  },
-  {
-    "augmentation": "R. A. Fisher was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 314126,
-        "no": 19207,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.9423789423789424
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald Aylmer Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 93,
-        "no": 7,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.93
-    }
-  },
-  {
-    "augmentation": "Prof. R A Fisher worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 333333,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. R. A. Fisher was a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 93,
-        "no": 7,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.93
-    }
-  },
-  {
-    "augmentation": "Ronald Aylmer Fisher worked as a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 76,
-        "no": 24,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.76
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald Aylmer Fisher was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 77,
-        "no": 23,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.77
-    }
-  },
-  {
-    "augmentation": "Professor R A Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Professor Ronald A Fisher worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Ronald A Fisher worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 91,
-        "no": 9,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.91
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
+        "yes": 312500,
         "no": 0,
         "invalid": 0
       }
@@ -640,7 +185,7 @@
     "augmentation": "Prof. RA Fisher was a statistician.",
     "response_dict": {
       "0": {
-        "yes": 100,
+        "yes": 312500,
         "no": 0,
         "invalid": 0
       }
@@ -650,140 +195,10 @@
     }
   },
   {
-    "augmentation": "Prof. R.A. Fisher was a mathematician.",
+    "augmentation": "Prof. R. A. Fisher was a statistician.",
     "response_dict": {
       "0": {
-        "yes": 95,
-        "no": 5,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.95
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Ronald A. Fisher was a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 79,
-        "no": 21,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.79
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A. Fisher was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 315606,
-        "no": 17727,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.9468189468189468
-    }
-  },
-  {
-    "augmentation": "Prof. R A Fisher was a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 96,
-        "no": 4,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.96
-    }
-  },
-  {
-    "augmentation": "R.A. Fisher was a mathematician.",
-    "response_dict": {
-      "0": {
-        "yes": 90,
-        "no": 10,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.9
-    }
-  },
-  {
-    "augmentation": "Professor RA Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A Fisher was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 96,
-        "no": 4,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.96
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald A Fisher was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 315670,
-        "no": 17663,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.947010947010947
-    }
-  },
-  {
-    "augmentation": "Professor R. A. Fisher was a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 100,
+        "yes": 333333,
         "no": 0,
         "invalid": 0
       }
@@ -806,16 +221,354 @@
     }
   },
   {
-    "augmentation": "Professor Ronald A Fisher was a mathematician.",
+    "augmentation": "Prof. R A Fisher worked as a statistician.",
     "response_dict": {
       "0": {
-        "yes": 97,
-        "no": 3,
+        "yes": 333333,
+        "no": 0,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.97
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "R. A. Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 333333,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor R.A. Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "RA Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 274308,
+        "no": 38192,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.8777856
+    }
+  },
+  {
+    "augmentation": "Prof. R A Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 333333,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor R.A. Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "RA Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 282145,
+        "no": 30355,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.902864
+    }
+  },
+  {
+    "augmentation": "Professor R A Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Prof. R A Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "R.A. Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor R A Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor R A Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "R. A. Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 314126,
+        "no": 19207,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9423789423789424
+    }
+  },
+  {
+    "augmentation": "Professor Ronald A. Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Prof. Ronald A Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 294872,
+        "no": 17628,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9435904
+    }
+  },
+  {
+    "augmentation": "Prof. Ronald A Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Prof. RA Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Prof. R.A. Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Ronald A Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 290086,
+        "no": 22414,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9282752
+    }
+  },
+  {
+    "augmentation": "R.A. Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 296129,
+        "no": 16371,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9476128
+    }
+  },
+  {
+    "augmentation": "Prof. RA Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor Ronald A Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Prof. R.A. Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Ronald A. Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 286074,
+        "no": 26426,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9154368
+    }
+  },
+  {
+    "augmentation": "Prof. R. A. Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 333333,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor Ronald A Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Ronald A Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 291454,
+        "no": 21046,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9326528
     }
   },
   {
@@ -832,6 +585,19 @@
     }
   },
   {
+    "augmentation": "Ronald A. Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 313112,
+        "no": 20221,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9393369393369393
+    }
+  },
+  {
     "augmentation": "R A Fisher was a biostatistican.",
     "response_dict": {
       "0": {
@@ -845,20 +611,7 @@
     }
   },
   {
-    "augmentation": "Ronald A. Fisher was a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 333333,
-        "no": 0,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Prof. R. A. Fisher worked as a statistician.",
+    "augmentation": "Ronald A Fisher was a biostatistican.",
     "response_dict": {
       "0": {
         "yes": 333333,
@@ -884,33 +637,7 @@
     }
   },
   {
-    "augmentation": "Ronald A. Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 313112,
-        "no": 20221,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.9393369393369393
-    }
-  },
-  {
-    "augmentation": "Ronald A. Fisher worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 88,
-        "no": 12,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.88
-    }
-  },
-  {
-    "augmentation": "Prof. R. A. Fisher was a statistician.",
+    "augmentation": "Professor Ronald A. Fisher worked as a biostatistican.",
     "response_dict": {
       "0": {
         "yes": 333333,
@@ -920,32 +647,6 @@
     },
     "parameter_dict": {
       "0": 1.0
-    }
-  },
-  {
-    "augmentation": "Ronald Aylmer Fisher worked as a biostatistican.",
-    "response_dict": {
-      "0": {
-        "yes": 285799,
-        "no": 47534,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.8573978573978573
-    }
-  },
-  {
-    "augmentation": "Prof. R.A. Fisher worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 316127,
-        "no": 17206,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.9483819483819483
     }
   },
   {
@@ -962,20 +663,111 @@
     }
   },
   {
-    "augmentation": "Ronald Aylmer Fisher was a biostatistican.",
+    "augmentation": "Professor R.A. Fisher was a statistician.",
     "response_dict": {
       "0": {
-        "yes": 294782,
-        "no": 38551,
+        "yes": 312500,
+        "no": 0,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.8843468843468844
+      "0": 1.0
     }
   },
   {
-    "augmentation": "Professor R A Fisher was a biostatistican.",
+    "augmentation": "Prof. R.A. Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "R.A. Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 287338,
+        "no": 25162,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9194816
+    }
+  },
+  {
+    "augmentation": "Professor Ronald A Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Prof. RA Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 295873,
+        "no": 16627,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9467936
+    }
+  },
+  {
+    "augmentation": "R A Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Prof. Ronald A. Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor R. A. Fisher was a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Ronald A. Fisher was a biostatistican.",
     "response_dict": {
       "0": {
         "yes": 333333,
@@ -988,55 +780,42 @@
     }
   },
   {
-    "augmentation": "Ronald A. Fisher worked as a statistician.",
+    "augmentation": "Professor R. A. Fisher was a biostatistican.",
     "response_dict": {
       "0": {
-        "yes": 303569,
-        "no": 29764,
+        "yes": 312500,
+        "no": 0,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.9107079107079107
+      "0": 1.0
     }
   },
   {
-    "augmentation": "Professor Ronald Aylmer Fisher was a biostatistican.",
+    "augmentation": "Prof. Ronald A. Fisher was a statistician.",
     "response_dict": {
       "0": {
-        "yes": 297514,
-        "no": 35819,
+        "yes": 315606,
+        "no": 17727,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.8925428925428925
+      "0": 0.9468189468189468
     }
   },
   {
-    "augmentation": "Professor Ronald Aylmer Fisher worked as a biostatistican.",
+    "augmentation": "Prof. Ronald A Fisher worked as a biostatistican.",
     "response_dict": {
       "0": {
-        "yes": 289871,
-        "no": 43462,
+        "yes": 312500,
+        "no": 0,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.8696138696138697
-    }
-  },
-  {
-    "augmentation": "Prof. Ronald Aylmer Fisher worked as a statistician.",
-    "response_dict": {
-      "0": {
-        "yes": 269258,
-        "no": 64075,
-        "invalid": 0
-      }
-    },
-    "parameter_dict": {
-      "0": 0.8077748077748078
+      "0": 1.0
     }
   },
   {
@@ -1053,81 +832,159 @@
     }
   },
   {
-    "augmentation": "RA Fisher was a statistician.",
+    "augmentation": "Professor Ronald A. Fisher was a statistician.",
     "response_dict": {
       "0": {
-        "yes": 290086,
-        "no": 43247,
+        "yes": 297101,
+        "no": 15399,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.8702588702588703
+      "0": 0.9507232
     }
   },
   {
-    "augmentation": "R.A. Fisher was a statistician.",
+    "augmentation": "Professor R. A. Fisher worked as a statistician.",
     "response_dict": {
       "0": {
-        "yes": 316062,
-        "no": 17271,
+        "yes": 312500,
+        "no": 0,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.9481869481869482
+      "0": 1.0
     }
   },
   {
-    "augmentation": "RA Fisher was a eugenicist.",
+    "augmentation": "RA Fisher worked as a statistician.",
     "response_dict": {
       "0": {
-        "yes": 0,
-        "no": 333333,
+        "yes": 252341,
+        "no": 60159,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.0
+      "0": 0.8074912
     }
   },
   {
-    "augmentation": "R.A. Fisher was a eugenecist.",
+    "augmentation": "Professor Ronald A Fisher worked as a biostatistican.",
     "response_dict": {
       "0": {
-        "yes": 26572,
-        "no": 306761,
+        "yes": 312500,
+        "no": 0,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.07971607971607972
+      "0": 1.0
     }
   },
   {
-    "augmentation": "RA Fisher was a geneticist.",
+    "augmentation": "R. A. Fisher was a biostatistican.",
     "response_dict": {
       "0": {
-        "yes": 97426,
-        "no": 235907,
+        "yes": 312500,
+        "no": 0,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.2922782922782923
+      "0": 1.0
     }
   },
   {
-    "augmentation": "R.A. Fisher was a geneticist.",
+    "augmentation": "Professor RA Fisher was a statistician.",
     "response_dict": {
       "0": {
-        "yes": 258892,
-        "no": 74441,
+        "yes": 296062,
+        "no": 16438,
         "invalid": 0
       }
     },
     "parameter_dict": {
-      "0": 0.7766767766767767
+      "0": 0.9473984
+    }
+  },
+  {
+    "augmentation": "Professor RA Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor Ronald A. Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Prof. R. A. Fisher was a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
+    }
+  },
+  {
+    "augmentation": "Professor R.A. Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 293879,
+        "no": 18621,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9404128
+    }
+  },
+  {
+    "augmentation": "R. A. Fisher worked as a statistician.",
+    "response_dict": {
+      "0": {
+        "yes": 288581,
+        "no": 23919,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 0.9234592
+    }
+  },
+  {
+    "augmentation": "Professor RA Fisher worked as a biostatistican.",
+    "response_dict": {
+      "0": {
+        "yes": 312500,
+        "no": 0,
+        "invalid": 0
+      }
+    },
+    "parameter_dict": {
+      "0": 1.0
     }
   }
 ]
